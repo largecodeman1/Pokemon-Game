@@ -19,3 +19,13 @@ Clicking on this will take the user to the starters section of the page automati
 **Pokedex**
 
 The Pokedex will take you to the index of all the pokemon in the game, and will give you a detailed information on the pokemon, including its moves, power, abilites, type, weaknesses and strengths, as well as its evolutionary stages. 
+
+**Contributions** 
+
+//adhithi 
+
+//dayita
+
+//zachary 
+
+//aiden 
