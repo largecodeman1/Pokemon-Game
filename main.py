@@ -24,6 +24,11 @@ def flask_route():
 def pokedex():
   return render_template("pokedex.html", projects=projects.setup())
 
+@app.route('/bulbasaur/')
+def bulbasaur():
+  return render_template("bulbasaur.html", projects=projects.setup())
+
+
 if __name__ == "__main__":
   #runs the application on the repl development server
   app.run(port='3000', host='0.0.0.0')

@@ -22,10 +22,10 @@ The Pokedex will take you to the index of all the pokemon in the game, and will 
 
 **Contributions** 
 
-//adhithi 
+//Adhithi 
 
-//dayita
+//Dayita
 
-//zachary 
+//Zachary 
 
-//aiden 
+//Aiden 
