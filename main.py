@@ -23,11 +23,22 @@ def flask_route():
 @app.route('/pokedex/')
 def pokedex():
   return render_template("pokedex.html", projects=projects.setup())
+	
+@app.route('/pokedexv/')
+def pokedexv():
+  return render_template("pokedexv.html", projects=projects.setup())
 
 @app.route('/bulbasaur/')
 def bulbasaur():
   return render_template("bulbasaur.html", projects=projects.setup())
 
+@app.route('/squirtle/')
+def squirtle():
+  return render_template("squirtle.html", projects=projects.setup())
+
+@app.route('/charmander/')
+def charmander():
+  return render_template("charmander.html", projects=projects.setup())
 
 if __name__ == "__main__":
   #runs the application on the repl development server
