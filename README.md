@@ -24,14 +24,30 @@ The Pokedex will take you to the index of all the pokemon in the game, and will 
 
 //Adhithi 
 
-1. Accomplished building up the pokedex, and coded two versions.
+*1. Accomplished building up the pokedex, and coded two versions.*
+
 Version 1: http://pokemon-game.aidencizek.repl.co/pokedex/ Link to code: 
-Version 2: 
-2. Accomplished setting up pokemon websites. 
-Bulabsaur: http://pokemon-game.aidencizek.repl.co/bulbasaur/ Link to code: 
-Charmander:  http://pokemon-game.aidencizek.repl.co/charmander/ Link to code: 
-Squirtle: http://pokemon-game.aidencizek.repl.co/squirtle/ Link to code: 
-3. 
+file: pokedex.html 
+
+Version 2: http://pokemon-game.aidencizek.repl.co/pokedexv/ Link to code: 
+file: pokedexv2.html 
+
+Next I need to merge versions together. 
+
+*2. Accomplished setting up pokemon websites.*
+
+Bulabsaur: http://pokemon-game.aidencizek.repl.co/bulbasaur/ Link to code: https://github.com/largecodeman1/Pokemon-Game/blob/master/templates/bulbasaur.html 
+file: bulbasaur.html 
+
+Charmander:  http://pokemon-game.aidencizek.repl.co/charmander/ Link to code: https://github.com/largecodeman1/Pokemon-Game/blob/master/charmander.html
+file: charmander.html
+
+Squirtle: http://pokemon-game.aidencizek.repl.co/squirtle/ Link to code: https://github.com/largecodeman1/Pokemon-Game/blob/master/squirtle.html
+file: squirtle.html
+
+3. Integrated links into images. 
+
+4. 
 
 //Dayita
 
