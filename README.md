@@ -24,8 +24,49 @@ The Pokedex will take you to the index of all the pokemon in the game, and will 
 
 //Adhithi 
 
+*1. Accomplished building up the pokedex, and coded two versions.*
+
+Version 1: http://pokemon-game.aidencizek.repl.co/pokedex/ Link to code: 
+file: pokedex.html 
+
+Version 2: http://pokemon-game.aidencizek.repl.co/pokedexv/ Link to code: 
+file: pokedexv2.html 
+
+Next I need to merge versions together. 
+
+*2. Accomplished setting up pokemon websites.*
+
+Bulabsaur: http://pokemon-game.aidencizek.repl.co/bulbasaur/ Link to code: https://github.com/largecodeman1/Pokemon-Game/blob/master/templates/bulbasaur.html 
+file: bulbasaur.html 
+
+Charmander:  http://pokemon-game.aidencizek.repl.co/charmander/ Link to code: https://github.com/largecodeman1/Pokemon-Game/blob/master/charmander.html
+file: charmander.html
+
+Squirtle: http://pokemon-game.aidencizek.repl.co/squirtle/ Link to code: https://github.com/largecodeman1/Pokemon-Game/blob/master/squirtle.html
+file: squirtle.html
+
+
+*3. Integrated links into images.*
+
+
+*4. Updated and started README.md file. 
+
+*5. Raspberry pi. 
+Link to python web portfolio: http://192.168.86.35:8080/ 
+Link to pokemon game: http://192.168.86.35:3000/
+- links aren't always active, so I'm trying to have them work more consistently and at all times. 
+
+
 //Dayita
 
 //Zachary 
 
 //Aiden 
+
+1. Successfully created buttons that link you to the wiki page for the various reigons
+
+2. Created Multiple ASCII sprites for the pokemon we will be using
+
+3. Fixed the formatting of the website, making boxes align, etc, still lots of work to do
+
+Link:https://pokemon-game.aidencizek.repl.co/ 
