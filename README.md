@@ -63,10 +63,10 @@ Link to pokemon game: http://192.168.86.35:3000/
 
 //Aiden 
 
-*1 Successfully created buttons that link you to the wiki page for the various reigons
+1. Successfully created buttons that link you to the wiki page for the various reigons
 
-*2 Created Multiple ASCII sprites for the pokemon we will be using
+2. Created Multiple ASCII sprites for the pokemon we will be using
 
-*3 Fixed the formatting of the website, making boxes align, etc, still lots of work to do
+3. Fixed the formatting of the website, making boxes align, etc, still lots of work to do
 
 Link:https://pokemon-game.aidencizek.repl.co/ 
