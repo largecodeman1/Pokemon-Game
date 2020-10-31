@@ -1,5 +1,5 @@
 # Pokemon-Game
-This is the Pokémon game for our project
+This is the Pokémon game for our project, our individual team goals and artifacts are at the bottom
 
 **How to Use** 
 
@@ -20,7 +20,7 @@ Clicking on this will take the user to the starters section of the page automati
 
 The Pokedex will take you to the index of all the pokemon in the game, and will give you a detailed information on the pokemon, including its moves, power, abilites, type, weaknesses and strengths, as well as its evolutionary stages. 
 
-**Contributions** 
+**Team Goals and Artifacts** 
 
 //Adhithi 
 
