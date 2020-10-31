@@ -45,9 +45,17 @@ file: charmander.html
 Squirtle: http://pokemon-game.aidencizek.repl.co/squirtle/ Link to code: https://github.com/largecodeman1/Pokemon-Game/blob/master/squirtle.html
 file: squirtle.html
 
-3. Integrated links into images. 
 
-4. 
+*3. Integrated links into images.*
+
+
+*4. Updated and started README.md file. 
+
+*5. Raspberry pi. 
+Link to python web portfolio: http://192.168.86.35:8080/ 
+Link to pokemon game: http://192.168.86.35:3000/
+- links aren't always active, so I'm trying to have them work more consistently and at all times. 
+
 
 //Dayita
 
