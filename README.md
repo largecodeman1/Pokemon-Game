@@ -75,3 +75,5 @@ Link: https://pokemon-game.aidencizek.repl.co/
 3. Fixed the formatting of the website, making boxes align, etc, still lots of work to do
 
 Link:https://pokemon-game.aidencizek.repl.co/ 
+
+Scrum Master grading:
