@@ -59,7 +59,8 @@ Link to pokemon game: http://192.168.86.35:3000/
 
 //Dayita
 1. Added information about Pokemon regions to homepage.
-2. 
+2. Added Team Information to Pokemon game homepage.
+3. 
 
 //Zachary 
 
