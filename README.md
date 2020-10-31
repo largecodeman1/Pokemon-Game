@@ -24,6 +24,15 @@ The Pokedex will take you to the index of all the pokemon in the game, and will 
 
 //Adhithi 
 
+1. Accomplished building up the pokedex, and coded two versions.
+Version 1: http://pokemon-game.aidencizek.repl.co/pokedex/ Link to code: 
+Version 2: 
+2. Accomplished setting up pokemon websites. 
+Bulabsaur: http://pokemon-game.aidencizek.repl.co/bulbasaur/ Link to code: 
+Charmander:  http://pokemon-game.aidencizek.repl.co/charmander/ Link to code: 
+Squirtle: http://pokemon-game.aidencizek.repl.co/squirtle/ Link to code: 
+3. 
+
 //Dayita
 
 //Zachary 
