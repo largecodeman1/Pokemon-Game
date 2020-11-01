@@ -56,6 +56,11 @@ Link to python web portfolio: http://192.168.86.35:8080/
 Link to pokemon game: http://192.168.86.35:3000/
 - links aren't always active, so I'm trying to have them work more consistently and at all times. 
 
+Self Grade: 19/20
+- I was very active this week on github, and worked on code nearly everyday 
+- I was able to accomplish all of my goals for this week, as mentioned above
+- I also accomplished some more skills and played around to learn more about html - developed skills 
+
 
 //Dayita
 1. Added information about Pokemon regions to homepage.
