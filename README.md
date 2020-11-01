@@ -56,7 +56,7 @@ Link to python web portfolio: http://192.168.86.35:8080/
 Link to pokemon game: http://192.168.86.35:3000/
 - links aren't always active, so I'm trying to have them work more consistently and at all times. 
 
-Self Grade: 19/20
+**Self Grade: 19/20**
 - I was very active this week on github, and worked on code nearly everyday 
 - I was able to accomplish all of my goals for this week, as mentioned above
 - I also accomplished some more skills and played around to learn more about html - developed skills 
@@ -80,7 +80,7 @@ https://pokemon-game.aidencizek.repl.co/
 Repl
 https://repl.it/@zachajoseph/Pokemon-Game-1#main.py
 
-Self Grade: 19/20
+**Self Grade: 19/20**
 I felt like I contributed to the group this week and I definitly tried my best and did a part in the coding and even more in the planning of the game. However, I probably could've done more and in implementing the ideas for the code and to the game that I had planned out in the storyboard, however, I will add them next week.
 
 **Scrum Master grading: Dayita**
@@ -99,6 +99,10 @@ https://github.com/zachajoseph/Pokemon-Core-Game-engine
 
 5/5
 Met the objectives of the self-advocacy week, with commits and tangible artifacts. I was able to complete my main goals for the week and research to prepare for the actual game development.
+
+
+**Self Grade: 20/20**
+I was able to meet my goals for this week, I unable to meet my stretch goal as I underestimated the length and tim put into creating a GUI interface. I am prepared for this coming week with actual game coding, and I have learned quite alot about GUI's and Classes.
 
 
 //Aiden 
