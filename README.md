@@ -66,6 +66,10 @@ Link: https://pokemon-game.aidencizek.repl.co/
 
 //Zachary 
 
+See README.MD
+
+https://github.com/zachajoseph/Pokemon-Core-Game-engine
+
 //Aiden 
 
 1. Successfully created buttons that link you to the wiki page for the various reigons
