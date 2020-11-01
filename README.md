@@ -62,18 +62,44 @@ Self Grade: 19/20
 - I also accomplished some more skills and played around to learn more about html - developed skills 
 
 
+**Scrum Master grading: Adhithi**
+
+5/5
+Met the objectives of the self-advocacy week, with commits and tangible artifacts. Links show clear progress in relation to the pokedex and such, every goal was met for the week.
+
 //Dayita
 1. Added information about Pokemon regions to homepage.
 2. Added team information to Pokemon game homepage.
 3. Added information to optional postcard for user to send.
 
-Link: https://pokemon-game.aidencizek.repl.co/
+Link:
+
+Website
+https://pokemon-game.aidencizek.repl.co/ 
+
+Repl
+https://repl.it/@zachajoseph/Pokemon-Game-1#main.py
+
+Self Grade: 19/20
+I felt like I contributed to the group this week and I definitly tried my best and did a part in the coding and even more in the planning of the game. However, I probably could've done more and in implementing the ideas for the code and to the game that I had planned out in the storyboard, however, I will add them next week.
+
+**Scrum Master grading: Dayita**
+
+5/5
+Met the objectives of the self-advocacy week, with commits and tangible artifacts. looking forward to more success and advanced coding goals.
 
 //Zachary 
 
 See README.MD
 
 https://github.com/zachajoseph/Pokemon-Core-Game-engine
+
+
+**Scrum Master grading: Zach**
+
+5/5
+Met the objectives of the self-advocacy week, with commits and tangible artifacts. I was able to complete my main goals for the week and research to prepare for the actual game development.
+
 
 //Aiden 
 
@@ -83,6 +109,15 @@ https://github.com/zachajoseph/Pokemon-Core-Game-engine
 
 3. Fixed the formatting of the website, making boxes align, etc, still lots of work to do
 
-Link:https://pokemon-game.aidencizek.repl.co/ 
+Link:
 
-Scrum Master grading:
+Website
+https://pokemon-game.aidencizek.repl.co/ 
+
+Repl
+https://repl.it/@zachajoseph/Pokemon-Game-1#main.py
+
+**Scrum Master grading: Aiden**
+
+5/5
+Met the objectives of the self-advocacy week, with commits and tangible artifacts.Every button works effectively and spites are completed and ready for possible integration into game.
