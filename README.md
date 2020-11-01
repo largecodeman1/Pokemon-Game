@@ -102,7 +102,7 @@ Met the objectives of the self-advocacy week, with commits and tangible artifact
 
 
 **Self Grade: 20/20**
-I was able to meet my goals for this week, I unable to meet my stretch goal as I underestimated the length and tim put into creating a GUI interface. I am prepared for this coming week with actual game coding, and I have learned quite alot about GUI's and Classes.
+I was able to meet my goals for this week, I unable to meet my stretch goal as I underestimated the length and time put into creating a GUI interface. I am prepared for this coming week with actual game coding, and I have learned quite alot about GUI's Intellij and Classes. I fufilled every goal I set out to accomplish and learned more than I would have expected.
 
 
 //Aiden 
@@ -120,6 +120,9 @@ https://pokemon-game.aidencizek.repl.co/
 
 Repl
 https://repl.it/@zachajoseph/Pokemon-Game-1#main.py
+
+**Self Grade: 18/20** 
+I definitely feel like I helped contribute to the game and the project this week, but I dont feel like I did as much as as I couldve, or as much as my teammates did, im going to set bigger goals in the weeks to come.
 
 **Scrum Master grading: Aiden**
 
