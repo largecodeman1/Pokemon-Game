@@ -59,8 +59,10 @@ Link to pokemon game: http://192.168.86.35:3000/
 
 //Dayita
 1. Added information about Pokemon regions to homepage.
-2. Added Team Information to Pokemon game homepage.
-3. 
+2. Added team information to Pokemon game homepage.
+3. Added information to optional postcard for user to send.
+
+Link: https://pokemon-game.aidencizek.repl.co/
 
 //Zachary 
 
@@ -73,3 +75,9 @@ Link to pokemon game: http://192.168.86.35:3000/
 3. Fixed the formatting of the website, making boxes align, etc, still lots of work to do
 
 Link:https://pokemon-game.aidencizek.repl.co/ 
+
+Team Padlets:
+
+Team - https://padlet.com/dayitar55247/tz0mxud5i694r1f2
+Adhithi and Dayita - https://padlet.com/adhithinmurthy07/62ocs1nutl96jb66
+Aiden and Zach - 
