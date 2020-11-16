@@ -1,7 +1,7 @@
 import projects #projects definitions are placed in different file
 
 # https://flask.palletsprojects.com/en/1.1.x/api/
-from flask import Flask, render_template
+from flask import Flask, render_template, url_for, request, redirect
 #create a Flask instance
 app = Flask(__name__)
 
@@ -24,9 +24,21 @@ def flask_route():
 def pokedex():
   return render_template("pokedex.html", projects=projects.setup())
 	
-@app.route('/pokedexv/')
-def pokedexv():
-  return render_template("pokedexv.html", projects=projects.setup())
+
+@app.route("/pokedex", methods=['GET','POST'],)
+
+
+#Gather info from post, and redirects to correspodning pokedex page - Aiden
+def pokemon():
+      if request.method == 'POST':
+        poke1 = request.form["numb1"]
+        if poke1 == "1":
+          return render_template("bulbasaur.html")
+        if poke1 == "2":
+          return render_template("charmander.html")
+        if poke1 =="3":
+          return render_template("squirtle.html")
+       
 
 @app.route('/bulbasaur/')
 def bulbasaur():
