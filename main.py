@@ -40,6 +40,15 @@ def pokemon():
           return render_template("squirtle.html")
        
 
+
+
+
+
+
+
+
+
+
 @app.route('/bulbasaur/')
 def bulbasaur():
   return render_template("bulbasaur.html", projects=projects.setup())
