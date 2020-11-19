@@ -38,16 +38,23 @@ def pokemon():
           return render_template("charmander.html")
         if poke1 =="3":
           return render_template("squirtle.html")
-       
+        if poke1 == "4":
+          return render_template("Growlithe.html")
+        if poke1 =="5":
+          return render_template("Staryu.html")
+        if poke1 =="6":
+          return render_template("Exeggcute.html")
 
 
 
 
+@app.route('/Staryu/')
+def Staryu():
+  return render_template("Staryu.html", projects=projects.setup())
 
-
-
-
-
+@app.route('/Growlithe/')
+def Growlithe():
+  return render_template("Growlithe.html", projects=projects.setup())
 
 @app.route('/bulbasaur/')
 def bulbasaur():
